@@ -67,7 +67,7 @@ const Contact = () => {
                 placeholder="Telefon raqamingiz"
               />
               <button className="bg-[#5A00DB] font-semibold text-lg sm:text-base rounded-lg py-3 text-white w-full cursor-pointer">
-                Jo'natish
+                Jo`natish
               </button>
             </form>
           </li>
